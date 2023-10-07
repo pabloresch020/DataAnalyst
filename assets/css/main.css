@@ -4688,10 +4688,16 @@ input, select, textarea {
 
 	}
 
-	/* UNVENARTICULE FLEX GROW 1 */
+	/* UNVEN ARTICULE FLEX GROW 1 */
 	
 	.flex-grow-1 {
 		flex-grow: 1 !important;
+		
+	}
+
+	.size-smaller {
+		width: 50% !important;
+		margin: auto;
 	}
 
 	/* ---- BUTTON EDITED */
