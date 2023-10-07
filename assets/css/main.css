@@ -4688,6 +4688,12 @@ input, select, textarea {
 
 	}
 
+	/* UNVENARTICULE FLEX GROW 1 */
+	
+	.flex-grow-1 {
+		flex-grow: 1 !important;
+	}
+
 	/* ---- BUTTON EDITED */
 
 	.button-1 {
